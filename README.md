@@ -23,3 +23,13 @@
 11.Python program for finding accuracy value of iris data set using SVM algorithm
 
 12.Python program for finding accuracy value of iris data set using  RANDOM FOREST algorithm
+
+13.Python program to demonstrate gradient descent using python(actual data)
+
+14.Python program to demonstrate gradient descent using python( modified data)
+
+15.Verifying the performance of a image processing by using choosen database with python code
+
+16.Verifying the performance of a image processing by using water shed database with python code
+
+17.python code to demonstrate linear separability
